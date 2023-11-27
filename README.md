@@ -13,3 +13,6 @@ This is my very first repository with the Kekambas-137 Cohort!
     -`<remote_name>` will usually be `orgin`
     -<`branch_name`> will usually be `main`   
     -can add `-u` flag to set up tracking
+6. To Create a new branch use 'git checkout -b <`new_branch_name`>
+    -use `git checkout <branch name` to switch between branches
+    -use `git checkout` to get a list of existing branches
